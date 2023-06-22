@@ -132,5 +132,6 @@ li {
 .overview-content {
   width: 800px;
   text-align: justify;
+  font-size: 30px;
 }
 </style>
